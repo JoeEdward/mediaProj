@@ -1,0 +1,30 @@
+.main-img {
+	background-color:#95A5A6;
+	width:100%; 
+	height:500px; 
+	border-radius: 10px;
+	margin-top: 10px;
+}
+.top-reviews {
+	background-color: #95A5A6;
+	width: 100%;
+	height: 500px;
+	border-radius: 10px;
+	margin-top: 10px;
+}
+.top-reviews h3{
+	margin-top: 0px;
+	text-align: center;
+}
+.top-reviews div a p{
+	font-size: 15px;
+}
+.top-reviews div a h1{
+	font-size: 20px;
+	margin-top: 0px;
+}
+.main-img h3 {
+	margin-top: 0px;
+}
+.main-img img {
+}
