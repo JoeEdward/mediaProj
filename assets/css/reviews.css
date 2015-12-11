@@ -1,0 +1,41 @@
+.mainreviewimage {
+	height: auto;
+	width: 100%;
+	margin-top: 10px;
+	border-radius: 10px;
+}
+.mainDiv {
+	height: auto;
+	margin-top: 5px;
+	width: 100%;
+	border-radius: 10px;
+	background-color: #ECF0F1;
+}
+.reviewhead {
+	margin-left: 10px;
+}
+.top-reviews h3{
+	margin-top: 0px;
+	text-align: center;
+}
+.top-reviews div a p{
+	font-size: 15px;
+}
+.top-reviews div a h1{
+	font-size: 20px;
+	margin-top: 0px;
+}
+.top-reviews {
+	background-color: #ECF0F1;
+	width: 100%;
+	height: 500px;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+.author {
+	width: 90%;
+	background-color: #ECF0F1;
+	border-radius: 10px;
+	height: auto;
+	margin-top: 10px;
+}
