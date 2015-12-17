@@ -31,7 +31,6 @@
 .main-img img {
 	width: 100%;
 	border-radius: 10px;
-	height: auto;
 }
 .saussage {
 	background-color: #ECF0F1;
@@ -48,7 +47,7 @@
 .saussage img {
 	width: 100%;
 	border-radius: 10px;
-	height: 100%;
+	height: 150px;
 }
 #a {
 	width: 105% !important;

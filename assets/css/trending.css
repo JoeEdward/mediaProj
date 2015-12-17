@@ -1,0 +1,11 @@
+.bannana {
+	background-color: #ECF0F1;
+	height: auto;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+.bannana img {
+	width: 100%;
+	height: auto;
+	border-radius: 10px;
+}
