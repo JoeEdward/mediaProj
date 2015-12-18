@@ -1,0 +1,15 @@
+.writer-block {
+	background-color: #ECF0F1;
+	width: 100%;
+	height: auto;
+	border-radius: 10px;
+}
+p {
+	margin-left: 5px;
+}
+h2 {
+	margin-left:5px;
+}
+a {
+	margin-left: 5px;
+}
